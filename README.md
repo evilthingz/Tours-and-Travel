@@ -6,7 +6,7 @@
  -  Pure HTML, CSS, JavaScript is used
  
  ## 🔗 To see the project
-[Tourism website](a-simple-tours-and-travel-website.netlify.app)
+[a-simple-tours-and-travel-website](https://a-simple-tours-and-travel-website.netlify.app/)
 
 
 ## 👓 Preview
